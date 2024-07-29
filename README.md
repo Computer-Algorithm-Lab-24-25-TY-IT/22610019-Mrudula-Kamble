@@ -1,17 +1,17 @@
 # 22610019-Mrudula-Kamble
-
-
 CA ASS-1
 Commands used :
 1.  gcc -o quick -pg quick.c
 2.  ./quick
 3.  gprof quick gmon.out > analysis.txt
 4.  cat analysis.txt
+![WhatsApp Image 2024-07-29 at 13 44 58_375f5647](https://github.com/user-attachments/assets/382a8257-3413-49f6-8ec6-ae5122818924)
+![WhatsApp Image 2024-07-29 at 13 45 15_77f2333f](https://github.com/user-attachments/assets/780ce2c6-f1ed-4814-8f57-33378d9edfcb)
+![WhatsApp Image 2024-07-29 at 13 45 37_572afcbd](https://github.com/user-attachments/assets/59cec44b-7eb0-447f-b0d9-5d1981ada6b4)
+![WhatsApp Image 2024-07-29 at 13 46 11_91684774](https://github.com/user-attachments/assets/ee3c78d0-b7c9-49b7-84fe-9527aa4953c1)
 
-![WhatsApp Image 2024-07-29 at 13 44 58_981ef4bc](https://github.com/user-attachments/assets/9aa9cbae-5c10-4f05-afe5-2b10667cebcb)
-![WhatsApp Image 2024-07-29 at 13 45 15_851fcc1e](https://github.com/user-attachments/assets/46af0200-027e-458c-b3db-29777c03bffa)
-![WhatsApp Image 2024-07-29 at 13 45 37_13bbec90](https://github.com/user-attachments/assets/8ee9768a-791c-43fb-a4bc-b5d8a49487ee)
-![WhatsApp Image 2024-07-29 at 13 46 11_6b39361f](https://github.com/user-attachments/assets/7033063f-f7d1-4a4b-806a-e7e753fdbfc9)
+
 
 Output of the code: 
-![Screenshot 2024-07-29 200547](https://github.com/user-attachments/assets/94aef44f-7039-4db5-9d1f-d66133f2c60b)
+![Screenshot 2024-07-29 200547](https://github.com/user-attachments/assets/a9b86a8a-9bbc-4010-a381-6ac0108ecf30)
+
